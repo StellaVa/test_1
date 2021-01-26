@@ -22,4 +22,4 @@ def get_user(user_id):
 
 u1 = get_user(7)
 u2 = get_user(7)
-
+new = 1
